@@ -4,4 +4,4 @@
 - 📫 You can contact me in fematdelgado.github@gmail.com
 
 Currently I'm learning assembler, Java and MySQL.
-I allready know C, C++, some shell scripting for linux.
+I allready know C, C++ and some shell scripting for linux.
